@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yerba-shop/precache-manifest.6ffc51adc6e4fd760de0de77c1026547.js"
+  "/yerba-shop/precache-manifest.620e0f5bafa7341c5b087f6bf989795e.js"
 );
 
 self.addEventListener('message', (event) => {

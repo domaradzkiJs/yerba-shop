@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yerba-shop/static/css/main.31a659ec.chunk.css",
-    "main.js": "/yerba-shop/static/js/main.bf428122.chunk.js",
-    "main.js.map": "/yerba-shop/static/js/main.bf428122.chunk.js.map",
+    "main.js": "/yerba-shop/static/js/main.639ed826.chunk.js",
+    "main.js.map": "/yerba-shop/static/js/main.639ed826.chunk.js.map",
     "runtime-main.js": "/yerba-shop/static/js/runtime-main.50c4f00f.js",
     "runtime-main.js.map": "/yerba-shop/static/js/runtime-main.50c4f00f.js.map",
     "static/js/2.bd61d111.chunk.js": "/yerba-shop/static/js/2.bd61d111.chunk.js",
     "static/js/2.bd61d111.chunk.js.map": "/yerba-shop/static/js/2.bd61d111.chunk.js.map",
     "index.html": "/yerba-shop/index.html",
-    "precache-manifest.6ffc51adc6e4fd760de0de77c1026547.js": "/yerba-shop/precache-manifest.6ffc51adc6e4fd760de0de77c1026547.js",
+    "precache-manifest.620e0f5bafa7341c5b087f6bf989795e.js": "/yerba-shop/precache-manifest.620e0f5bafa7341c5b087f6bf989795e.js",
     "service-worker.js": "/yerba-shop/service-worker.js",
     "static/css/main.31a659ec.chunk.css.map": "/yerba-shop/static/css/main.31a659ec.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.50c4f00f.js",
     "static/js/2.bd61d111.chunk.js",
     "static/css/main.31a659ec.chunk.css",
-    "static/js/main.bf428122.chunk.js"
+    "static/js/main.639ed826.chunk.js"
   ]
 }

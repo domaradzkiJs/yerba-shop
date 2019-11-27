@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce44db4320924733fd9f49fd49fd1f29",
+    "revision": "c7883a8392e71a943a7aebec2571606c",
     "url": "/yerba-shop/index.html"
   },
   {
-    "revision": "5d367f69c4fc51abe226",
+    "revision": "a7f2d022c9b07cd1cd17",
     "url": "/yerba-shop/static/css/main.31a659ec.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yerba-shop/static/js/2.bd61d111.chunk.js"
   },
   {
-    "revision": "5d367f69c4fc51abe226",
-    "url": "/yerba-shop/static/js/main.bf428122.chunk.js"
+    "revision": "a7f2d022c9b07cd1cd17",
+    "url": "/yerba-shop/static/js/main.639ed826.chunk.js"
   },
   {
     "revision": "61783524525957daa619",
